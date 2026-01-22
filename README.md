@@ -4,9 +4,7 @@
 
   <br/>
 
-  <p>
-    <em>Building robust backend systems, RESTful APIs, and modern web applications.</em>
-  </p>
+  <p><em>Building robust backend systems, RESTful APIs, and modern web applications.</em></p>
 
   <a href="https://linkedin.com/in/your-linkedin">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -18,7 +16,7 @@
   <br/><br/>
 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mkmanj&theme=flat&no-frame=true&no-bg=true&margin-w=4" alt="mkmanj" />
+    <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=flat&no-frame=true&no-bg=true&margin-w=4" alt="trophies" />
   </a>
 
 </div>
@@ -37,25 +35,18 @@ I transform complex requirements into **clean, scalable solutions**. Currently f
 ### 🛠️ The Arsenal
 
 <div align="center">
-
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/Django_REST-A30000?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-
   <br/>
-
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-
   <br/>
-
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-
 </div>
 
 ---
@@ -63,16 +54,12 @@ I transform complex requirements into **clean, scalable solutions**. Currently f
 ### 📊 Performance & Stats
 
 <div align="center">
-
-  <a href="https://github.com/mkmanj">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mkmanj&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkmanj&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <a href="https://github.com/YOUR_USERNAME">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
   </a>
-
   <br/><br/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mkmanj&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
 ---
@@ -80,15 +67,13 @@ I transform complex requirements into **clean, scalable solutions**. Currently f
 ### 🐍 Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mkmanj/mkmanj/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 
 ---
 
 <div align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=dark&hide_border=true" alt="Jokes Card" />
-
   <br/><br/>
-  
-  <i>Designing APIs, crafting logic, and shipping scalable solutions — one commit at a time.</i>
+  <i>Designing APIs, crafting logic, and shipping scalable solutions.</i>
 </div>
