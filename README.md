@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Anjal+Dev+%F0%9F%91%8B;Python+%26+Django+Developer;Building+Scalable+APIs;Crafting+Clean+Architecture" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Anjal+Dev;Python+%26+Django+Developer;Building+Scalable+APIs;Crafting+Clean+Architecture" alt="Typing SVG" />
 
   <br/>
 
@@ -51,7 +51,7 @@ I transform complex requirements into **clean, scalable solutions**. Currently f
 
 ---
 
-### 📊 Performance & Stats
+###  Performance & Stats
 
 <div align="center">
   <a href="https://github.com/YOUR_USERNAME">
@@ -64,7 +64,7 @@ I transform complex requirements into **clean, scalable solutions**. Currently f
 
 ---
 
-### 🐍 Contribution Graph
+### Contribution Graph
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="snake animation" />
