@@ -60,10 +60,15 @@ I transform complex requirements into **clean, scalable solutions**. Currently f
 
 ---
 
-### Contribution Graph
+### GitHub Activity Graph (Last 31 Days)
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Anjaldev-vk/Anjaldev-vk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anjaldev-vk&theme=react-dark&hide_border=true&area=true" alt="Contribution Activity Graph"/>
+</div>
+
+<div align="center">
+  <br>
+  <i>Building clean, efficient, and scalable applications — one commit at a time.</i>
 </div>
 
 ---
