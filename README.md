@@ -6,17 +6,17 @@
 
   <p><em>Building robust backend systems, RESTful APIs, and modern web applications.</em></p>
 
-  <a href="https://linkedin.com/in/your-linkedin">
+  <a href="https://www.linkedin.com/in/anjaldev-vk/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:mkmanjal@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
   <br/><br/>
 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=flat&no-frame=true&no-bg=true&margin-w=4" alt="trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Anjaldev-vk&theme=flat&no-frame=true&no-bg=true&margin-w=4" alt="trophies" />
   </a>
 
 </div>
@@ -54,12 +54,12 @@ I transform complex requirements into **clean, scalable solutions**. Currently f
 ###  Performance & Stats
 
 <div align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <a href="https://github.com/Anjaldev-vk">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anjaldev-vk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anjaldev-vk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
   </a>
   <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anjaldev-vk&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
 ---
@@ -67,7 +67,7 @@ I transform complex requirements into **clean, scalable solutions**. Currently f
 ### Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/Anjaldev-vk/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 
 ---
