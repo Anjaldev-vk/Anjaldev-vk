@@ -107,14 +107,14 @@
   
   <br/>
   
-  <img src="https://streak-stats.demolab.com?user=Anjaldev-vk&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Anjaldev-vk&theme=tokyonight&hide_border=true&background=0D1117" alt="  " />
 </div>
 
 <br/>
 
 <h3 align="center">📈 Contribution History</h3>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anjaldev-vk&theme=react-dark&hide_border=true&area=true" alt="Contribution Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anjaldev-vk&theme=react-dark&hide_border=true&area=true" alt="  "/>
 </div>
 
 <br/>
@@ -134,5 +134,5 @@
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="2" width="100%">
   <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=Anjaldev-vk&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=Anjaldev-vk&label=Profile%20Views&color=blueviolet&style=flat-square" alt="  ">
 </div>
